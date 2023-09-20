@@ -1,1 +1,8 @@
 https://github.com/arunrajns/react_sample_v18.x
+
+package.json -- npm init or npm init --yes -- create a configuration files for npm 
+|| application configuratio or metadata information about the project,
+
+bundler is required for production ready app, for that popular bundler pakages from npm repository:
+webpack, parcel, wheat we can install into our proj || app-- npm i -D parcel  (flag -D deals Dev depedecies(devDependencies),
+ one more dependeny Normal dependencies (dependencies: app dependencies) that is req for production build)
