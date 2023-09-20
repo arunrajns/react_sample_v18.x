@@ -24,5 +24,10 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
-  }
+  },
+  "browserslist":[
+    "Firefox > 20",
+    "defaults and supports es6-module",
+    "maintained node versions"
+  ]
 }
